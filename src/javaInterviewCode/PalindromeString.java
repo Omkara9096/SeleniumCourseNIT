@@ -23,7 +23,7 @@ public class PalindromeString {
 
 	public static void main(String[] args) {
 
-		String str = "Geeks";
+		String str = "Omkar";
 		String str1 = "RACEcar";
 
 		//change string to lowercase
